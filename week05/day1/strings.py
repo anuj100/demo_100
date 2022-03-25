@@ -1,4 +1,4 @@
-#!/bin/python
+
 
 s = "Goanna Restart 2022 - Python"
 
